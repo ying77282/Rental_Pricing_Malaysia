@@ -65,6 +65,8 @@ d. Marketing Performance (Digital Data)
      - Monitor rental price fluctuations and demand trends through platforms like PropertyGuru Insights, iProperty Reports, and government housing reports. Adjust your pricing during high and low seasons 
        accordingly.
 
-# 2) Cleaning of Dataset using Sql
+# 2) Cleaning of Dataset using Python
+
+
 
 
